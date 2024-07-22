@@ -4,7 +4,7 @@
 
 **About Me**
 
-Hi, I'm [Gokul Krishna N], a passionate and dedicated AI, Machine Learning, and Deep Learning enthusiast.I also interested in Python and UI dev.  I enjoy exploring new technologies and applying them to solve real-world problems. My primary focus is on building intelligent systems that can learn and adapt.
+Hi, I'm Gokul Krishna N, a passionate and dedicated AI, Machine Learning, and Deep Learning enthusiast.I also interested in Python and UI dev.  I enjoy exploring new technologies and applying them to solve real-world problems. My primary focus is on building intelligent systems that can learn and adapt.
 
 **Interests**
 
